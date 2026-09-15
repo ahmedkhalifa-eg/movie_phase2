@@ -391,7 +391,7 @@ class _HomePageState extends State<HomePage> {
         child: Center(
           child: Icon(
             icon,
-            size: 22 * scale,
+            size: 21 * scale,
             color: active
                 ? const Color(0xffffd400)
                 : Colors.white,
